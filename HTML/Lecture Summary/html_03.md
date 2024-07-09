@@ -83,7 +83,7 @@
 ```
 <thead>
   <tr>
-    <<td>이름</td> <td>성별</td> <td>주소</td>
+    <td>이름</td> <td>성별</td> <td>주소</td>
     </tr>
     </thead>
 

@@ -6,7 +6,7 @@ Form : radio.checkbox
 ```
 <html>
     <head>
-    <meta charset="utf-8>
+    <meta charset="utf-8">
     </head>
     <body>
     <form action="http://localhost/order.php">

@@ -15,7 +15,6 @@ form_text.html
     </form>
 <body>
 </html>
-
 ```
 
 value 속성
