@@ -12,4 +12,4 @@ let newLength = fruits.push('orange','mango')
 
 console.log(fruits); //  ['apple', 'banana', 'orange', 'mango']
 console.log(newLength); // 4
-```
+```i
