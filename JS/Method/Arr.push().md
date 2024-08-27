@@ -6,7 +6,7 @@ push(element)
 - 원본 배열을 변경한다.
 - 추가되는 요소는 하나 이상의 요소일 수 있으며 여러 개의 요소를 한 번에 추가할 수 있다.
 
-```
+```js
 let fruits = ['apple','banana'];
 let newLength = fruits.push('orange','mango')
 

@@ -6,7 +6,7 @@ unshift(element)
 - 원본 배열을 변경한다.
 - 배열의 앞부분에 새로운 요소를 추가하며, 추가된 요소 수만큼 기존 요소들이 뒤로 밀린다.
 
-```
+```js
 let fruits = ['banana', 'orange'];
 let newLength = fruits.unshift('apple', 'mango');
 console.log(fruits); // ['apple', 'mango', 'banana', 'orange']

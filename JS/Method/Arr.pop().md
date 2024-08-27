@@ -6,7 +6,7 @@ pop()
 - 원본 배열을 변경한다.
 - 제거된 요소를 반환하며, 배열이 비어있을 경우 `undefined` 를 반환한다.
 
-```
+```js
 let fruits = ['apple', 'banana', 'orange'];
 let last = fruits.pop();
 console.log(fruits); // ['apple', 'banana']

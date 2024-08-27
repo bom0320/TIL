@@ -6,7 +6,7 @@ shift()
 - 원본 배열을 변경한다.
 - 첫 번째 요소를 제거하며, 배열이 비어있을 경우 `undefined` 를 반환한다.
 
-```
+```js
 let fruits = ['apple' , 'banana', 'orange'];
 let first = fruits.shift();
 console.log(fruits) // ['banana', 'orange']
