@@ -8,6 +8,39 @@
 - 주 축이 가로(`row`)든, 세로(`column`) 든 적용 가능
 - **기본값** : `nowrap`   => 아이템이 한 줄에 모두 배치되며, 컨테이너 크기를 초과하더라도 줄바꿈 하지 X
 
+### 주요 값
+1. `nowrap`(기본값)
+- 아이템들이 한 줄에만 배치된다.
+2. `wrap`
+- 아이템들이 줄을 넘기고 여러 줄에 나눠서 배치된다.
+3. `wrap-reverse`
+- 아이템들이 여러줄에 배치되지만, 줄 순서가 거꾸로 배치된다.
+
+#### Example Code
+
+```css
+/* flex-wrap: nowrap */
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+
+/*flex-wrap: wrap; */
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+
+/* flex-wrap: wrap-reverse; */
+.container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+```
+
 ---
 
 ## 사용 상황_ 세로 방향
