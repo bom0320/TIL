@@ -38,3 +38,5 @@ export default function App() {
 
 **Note :** `NavigationContainer` 는 React Navigation 라이브러리를 사용한 경우에만 필요한 컴포넌트이다.  내비게이션 없이 단일 화면 앱이라면 `NavigationContainer` 가 필요하지 않다.
 
+### 요약
+`NavigationContainer` 은 내비게이션 상태를 관리하고, 모든 화면을 감싸며 테마를 적용할 수 있는 최상위 내비게이션 컨테이너이다.
