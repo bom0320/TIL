@@ -24,7 +24,7 @@ document.getElementById("current").innerText = "Hello, JavaScript!";
 ```
 
 - **초기 HTML에는 값이 없고, JavaScript 실행 후 값이 들어감.**
-- `innerText`가 `<div>` 내부의 내용을 변경함.
+- `innerText`가 `<div>` 내부의 내용을 변경한다.
 
 ---
 
