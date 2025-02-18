@@ -106,4 +106,4 @@ class Person {
 
 - `constructor`가 하는 일은 "속성 정의"가 아니라 "값 초기화"임.
 - 클래스 필드(Class Field)를 사용하면 `constructor` 없이도 속성을 정의할 수 있음.
-- `constructor`는 주로 **동적인 값 설정**이 필요할 때만 사용하면 됨.
+- `constructor`는 주로 **동적인 값 설정**이 필요할 때만 사용하면 된다.
