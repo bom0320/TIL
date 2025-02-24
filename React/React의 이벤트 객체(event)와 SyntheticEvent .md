@@ -211,4 +211,4 @@ const handleChange = (event) => {
 - `event.target`, `event.preventDefault()` 같은 속성은 그대로 유지됨
 - 내부적으로 `event.nativeEvent`를 통해 브라우저 원본 `event` 객체를 포함하고 있음
 
-✔ **즉, React의 `SyntheticEvent`는 브라우저 이벤트 객체를 감싼 래퍼(wrapper) 역할을 하면서, React가 자체적으로 최적화한 이벤트 시스템!** 🚀
+✔ **즉, React의 `SyntheticEvent`는 브라우저 이벤트 객체를 감싼 래퍼(wrapper) 역할을 하면서, React가 자체적으로 최적화한 이벤트 시스템!** 
