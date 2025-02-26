@@ -9,7 +9,7 @@
 ---
 ### REST 란?
 - REST (Representational State Transfer)의 약자로 자원을 이름으로 구분하여 해당 자원의 상태를 주고 받는 모든 것을 의미한다. 
-- REST 는 자원을 URL 로 식별하고 그 자원의 상태를 클라이언트와 서버 간에 주고 받는 모든 행위를 의미한다.
+- REST 는 자원을 URL 로 식별하고 그 자원의 상태를 클라이언트와 서버 간에 주고 받는 모든 행위를 의미함.
 
 ## 즉 REST 란
 1. HTTP URL(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고,
